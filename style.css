@@ -257,16 +257,6 @@ body {
   background-size: cover;
 }
 
-.timeline04 .list:nth-child(4) .image {
-  background: url(./img/timeline-img04.jpg) no-repeat;
-  background-size: cover;
-}
-
-.timeline04 .list:nth-child(5) .image {
-  background: url(./img/timeline-img05.jpg) no-repeat;
-  background-size: cover;
-}
-
 @media screen and (max-width: 768px) {
   .timeline04 {
     width: 70%;
