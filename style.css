@@ -82,7 +82,7 @@ nav.nav ul.item li.list a {
 /* キービジュアル */
 .fv-container {
   width: 100%;
-  height: 80vh;
+  height: 100vh;
   background: url(./img/fv.jpg) no-repeat;
   background-size: cover;
 }
