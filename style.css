@@ -20,7 +20,7 @@ ul {
 a {
   background: transparent;
   text-decoration: none;
-  color: black;
+  color: inherit;
 }
 
 /* ヘッダー07 */
