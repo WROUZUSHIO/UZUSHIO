@@ -109,6 +109,7 @@ nav.nav ul.item li.list a {
     background: #3656a7;
     position: absolute;
     transition: 0.2s;
+    background-image: linear-gradient(145deg, #e0c3fc 0%, #8ec5fc 100%);
   }
 
   #menu-btn span {
