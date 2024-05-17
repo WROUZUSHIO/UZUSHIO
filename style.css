@@ -182,6 +182,7 @@ nav.nav ul.item li.list a {
 /*画像*/
 body {
     width: 100%;
+    top: 35px;
     height: 100vh;
     background: url(./img/fv01.jpg)no-repeat;
     background-size: cover;
@@ -189,6 +190,7 @@ body {
 .box {
     width: 520px;
     height: 280px;
+    top:70px;
     margin: 13% auto 0;
     display: flex;
     align-items: center;
