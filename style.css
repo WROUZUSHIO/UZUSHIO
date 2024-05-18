@@ -182,7 +182,7 @@ nav.nav ul.item li.list a {
 /*画像*/
 body {
     width: 100%;
-    height: 100vh;
+    height: 1000px;
     background: url(./img/fv01.jpg)no-repeat;
     background-size: cover;
 }
