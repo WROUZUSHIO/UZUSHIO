@@ -32,7 +32,6 @@ header.header07 {
   padding: 1rem;
   background-image: linear-gradient(145deg, #e0c3fc 0%, #8ec5fc 100%);
   top: 0; 
-  height: 240px;
 }
 
 div.logo {
@@ -383,7 +382,6 @@ footer.footer02 {
   background-image: linear-gradient(145deg, #e0c3fc 0%, #8ec5fc 100%);
   top:200px;
   bottom: 0; /*下に固定*/
-   height: 240px;
 }
 
 .footer-container {
