@@ -268,7 +268,9 @@ ul.item {
   max-width: 960px;
   margin: 0 auto;
 }
-
+li.list {
+  width: 33.3%;
+}
 /*タイムライン*/
 
 /* timeline02 */
