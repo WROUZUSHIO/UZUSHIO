@@ -273,6 +273,7 @@ body {
   height: 3px;
   background-color: #d3d4d7;
   position: absolute;
+  top: 0;
   left: 0;
 }
 
