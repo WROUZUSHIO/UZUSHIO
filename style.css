@@ -255,6 +255,12 @@ SPはここから
     margin-bottom: 0;
   }
 }
+/*私たちについて*/
+.container {
+  width: 100%;
+  padding: 10rem 1rem;
+}
+
 /*タイムライン*/
 
 /* timeline02 */
