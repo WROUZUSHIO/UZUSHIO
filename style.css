@@ -235,10 +235,6 @@ body {
     transition-delay: .3s;
 }
 /*私たちについて*/
-.container {
-  width: 100%;
-  padding: 10rem 1rem;
-}
 
 ul.item {
   list-style: none;
