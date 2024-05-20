@@ -361,6 +361,7 @@ p.copyright {
 @media screen and (max-width: 768px) {
   footer.footer02 {
     padding: 2rem 1rem 1rem;
+    bottom: 0; /*下に固定*/
   }
 
   .footer-container {
