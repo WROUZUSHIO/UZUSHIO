@@ -271,7 +271,11 @@ div.image img {
   object-fit: cover;
 }
 
-
+h3.title {
+  padding: 1rem 0;
+  font-weight: bold;
+  font-size: 22px;
+}
 
 p.content {
   line-height: 1.6;
