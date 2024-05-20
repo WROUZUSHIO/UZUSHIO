@@ -276,10 +276,6 @@ li.list {
   display: flex;
   flex-direction: column;
 }
-li.list:last-child {
-  margin-right: 0;
-}
-
 
 
 /*タイムライン*/
