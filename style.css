@@ -316,13 +316,6 @@ SPはここから
     max-width: 420px;
   }
 
-  li.list {
-    width: 100%;
-    min-height: 400px;
-    margin-right: 0;
-    margin-bottom: 3rem;
-  }
-
   li.list:last-child {
     margin-bottom: 0;
   }
