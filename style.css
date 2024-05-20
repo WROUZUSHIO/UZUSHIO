@@ -271,8 +271,6 @@ ul.item {
 li.list {
   width: 33.3%;
   margin-right: 2rem;
-  display: flex;
-  flex-direction: column;
 }
 /*タイムライン*/
 
