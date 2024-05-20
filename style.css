@@ -277,16 +277,12 @@ h3.title {
   font-size: 22px;
 }
 
-
-
-a.btn {
-  display: inline-block;
-  text-decoration: underline;
-  font-weight: bold;
-  font-size: 20px;
-  color: #e4c140;
-  margin-top: auto;
+p.content {
+  line-height: 1.6;
+  color: #333;
 }
+
+
 
 a.btn:hover {
   opacity: 0.8;
