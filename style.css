@@ -235,14 +235,12 @@ body {
     transition-delay: .3s;
 }
 /*私たちについて*/
-
-ul.item {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  max-width: 960px;
-  margin: 0 auto;
+.container {
+  width: 100%;
+  padding: 10rem 1rem;
 }
+
+
 
 li.list {
   width: 33.3%;
