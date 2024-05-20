@@ -270,6 +270,7 @@ ul.item {
 }
 li.list {
   width: 33.3%;
+  min-height: 420px;
 }
 /*タイムライン*/
 
