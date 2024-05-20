@@ -269,14 +269,6 @@ ul.item {
   margin: 0 auto;
 }
 
-li.list {
-  width: 33.3%;
-  min-height: 420px;
-  margin-right: 2rem;
-  display: flex;
-  flex-direction: column;
-}
-
 /*タイムライン*/
 
 /* timeline02 */
