@@ -240,15 +240,15 @@ body {
   padding: 10rem 1rem;
 }
 
-
-
-li.list {
-  width: 33.3%;
-  min-height: 420px;
-  margin-right: 2rem;
+ul.item {
+  list-style: none;
   display: flex;
-  flex-direction: column;
+  justify-content: center;
+  max-width: 960px;
+  margin: 0 auto;
 }
+
+
 
 li.list:last-child {
   margin-right: 0;
