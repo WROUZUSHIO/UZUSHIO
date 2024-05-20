@@ -261,6 +261,14 @@ SPはここから
   padding: 10rem 1rem;
 }
 
+ul.item {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 /*タイムライン*/
 
 /* timeline02 */
