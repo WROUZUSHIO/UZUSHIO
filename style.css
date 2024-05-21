@@ -259,6 +259,8 @@ SPはここから
 .container {
   width: 100%;
   padding: 10rem 1rem;
+  position: absolute; 
+  top: 500px; /* 上から10px */
 }
 
 ul.item {
